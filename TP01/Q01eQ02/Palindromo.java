@@ -1,3 +1,4 @@
+package TP01.Q01eQ02;
 class Palindromo {
     /**
      *  Verifica se a entrada é igual a "FIM".

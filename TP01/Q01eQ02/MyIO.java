@@ -1,3 +1,4 @@
+package TP01.Q01eQ02;
 import java.io.*;
 import java.nio.charset.*;
 

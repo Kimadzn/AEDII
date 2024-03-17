@@ -1,4 +1,4 @@
-package Q03;
+package TP01.Q03;
 
 import java.util.Scanner;
 
